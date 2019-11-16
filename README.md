@@ -5,4 +5,7 @@
 Howdy! I am [Kumar Abhirup](https://kumar.now.sh) (@kumar_abhirup)... I keep all my Speaker Keynotes in this GitHub repository for you all to access... 👌
 
 ## Keynotes
-No keynotes uploaded yet.
+
+### WCKochi 2019: Headless WordPress with React
+
+In the keynote, I tell about how one can use WordPress backend with React projects.
