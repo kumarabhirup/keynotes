@@ -1,4 +1,5 @@
 # 📽️ Speaker Keynotes 👨‍🏫
+
 [![emoji-log](https://cdn.jsdelivr.net/gh/ahmadawais/stuff@ca978741836412b5e33ce8561f5f95c933177067/emoji-log/flat.svg)](https://github.com/ahmadawais/Emoji-Log/)
 [![Twitter](https://img.shields.io/twitter/follow/kumar_abhirup.svg?style=social&label=@kumar_abhirup)](https://twitter.com/kumar_abhirup/)
 
@@ -11,6 +12,10 @@ Howdy! I am [Kumar Abhirup](https://kumar.now.sh) (@kumar_abhirup)... I keep all
 ### WCKochi 2019: Headless WordPress with React
 
 In the keynote, I tell about how one can use WordPress backend with React projects.
+
+### WPCouchCon 2020: React Hooks, explained
+
+In the keynote, I tell about React Hooks and why they are better than the Class Components. I also do live coding session. :)
 
 ## About Me
 
