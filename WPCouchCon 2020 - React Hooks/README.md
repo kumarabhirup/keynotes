@@ -30,4 +30,5 @@ Website: [kumarabhirup.me](https://kumarabhirup.me)
 
 ## Talk Video
 
-Coming soon.
+[Click Here to watch](https://drive.google.com/file/d/13urL4wQ8bM4s7aU2iD1D7h4YimmTHk1H/view?usp=sharing).
+Note that the voice is too low because of technical glitch, max your headphone volume. :)
