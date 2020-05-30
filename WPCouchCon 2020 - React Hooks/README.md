@@ -10,11 +10,11 @@ I gave this talk at an online conference, called [WPCouchCon 2020](https://wpcou
 - Solution: React Hooks
 - List all the hooks
 - useState
-  - Live Demo
+  - [Live Demo](https://codesandbox.io/s/counter-usestate-y1ykm)
 - useReducer
-  - Live Demo
+  - [Live Demo](https://codesandbox.io/s/counter-usereducer-2c4nj)
 - useEffect
-  - Live Demo
+  - [Live Demo](https://codesandbox.io/s/useeffect-demo-tcp8q)
 - Questions?
 - Thanks
 
