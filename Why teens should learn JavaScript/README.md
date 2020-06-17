@@ -1,7 +1,5 @@
 # Why Teens Should Learn JavaScript
 
-I gave this talk at [Juneteenth Conf 2020](https://www.juneteenthconf.com).
-
 ## Links
 - [44% students unsure stat](https://www.concrete-online.co.uk/44-students-dont-know-want-graduation)
 

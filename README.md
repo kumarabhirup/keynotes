@@ -17,7 +17,7 @@ In the keynote, I tell about how one can use WordPress backend with React projec
 
 In the keynote, I tell about React Hooks and why they are better than the Class Components. I also do live coding session. :)
 
-### Juneteenth Conf 2020: Why teens should learn JavaScript
+### Why teens should learn JavaScript
 
 In the keynote, I share how newcomers, especially teens, can become a part of this awesome JS Community. :)
 
